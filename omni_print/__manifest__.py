@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Omni Print",
+    'name': "Omni Printr",
     'summary': """Omni Print can simplify your print workflow with one single click, no more downloads required.""",
     'version': '1.0.2',
     'author': "Omni Byte",
